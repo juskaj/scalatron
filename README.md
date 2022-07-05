@@ -1,5 +1,5 @@
 # Scalatron
-This project was created for studying purposes.
+This project was created for studying purposes. The code for bot can be found in patched/Bot.scala
 
 ### Summary
 This is a bot written in Scala for [Scalatron](https://scalatron.github.io/). It can create mini-bots to harvest energy and plant mini-bots acting as landmines (when there is an enemy in proximity the mini-bot explodes, damaging the enemy).
